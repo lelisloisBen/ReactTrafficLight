@@ -2,7 +2,7 @@
 
 ### Let's simulate a traffic light
 
-The whole purpose of the component is displaying a traffic light with read, yellow and green lights.
+The whole purpose of the component is displaying a traffic light with red, yellow and green lights.
 
 When any light is clicked (selected) it has to glow, but the other lights have to stop glowing.
 
