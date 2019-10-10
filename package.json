@@ -27,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Let's simulate a traffic light",
+  "main": "index.html",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirbenzada/ReactTrafficLight.git"
+  },
+  "author": "Samir Benzada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirbenzada/ReactTrafficLight/issues"
+  },
+  "homepage": "https://github.com/samirbenzada/ReactTrafficLight#readme"
 }
